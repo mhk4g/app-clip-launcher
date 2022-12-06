@@ -1,21 +1,5 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-            "appIDs": [ "7UMFPW78PV.willowtreeapps.Tap2AppClipPOC" ],
-            "components":  [
-                {
-                    "/": "*",
-                    "comment": "Matches all urls."
-                }
-            ]
-        }
-    ]
-
-    },
-
     "appclips": {
-        "apps": ["7UMFPW78PV.willowtreeapps.Tap2AppClipPOC.Clip"]
+        "apps": [ "7UMFPW78PV.willowtreeapps.Tap2AppClipPOC.Clip" ]
     }
 }
