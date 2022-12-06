@@ -1,4 +1,20 @@
 {
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [ "7UMFPW78PV.willowtreeapps.Tap2AppClipPOC" ],
+                "components": [
+                    {
+                       "#": "no_universal_links",
+                       "exclude": true,
+                       "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+                    }
+                ]
+            }
+        ]
+    },
+
     "appclips": {
         "apps": [ "7UMFPW78PV.willowtreeapps.Tap2AppClipPOC.Clip" ]
     }
