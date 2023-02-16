@@ -3,6 +3,8 @@
 - Update the AASA itself with your project's app and app clip IDs
 - Update the meta tag in index.html to your app's ID and bundle.
   - You can also configure the value of app-clip-display to either display the metadata card or to launch the app clip directly
+- Update the associated domain of the app clip in Xcode
+- Any additional setup required in Xcode or App Store Connect?
 
 # Getting Started with Create React App
 
