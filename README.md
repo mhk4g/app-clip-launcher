@@ -1,3 +1,9 @@
+# TODOs:
+- Instruct consumers to remove redirects on the container in the "Rewrites and redirects" section
+- Update the AASA itself with your project's app and app clip IDs
+- Update the meta tag in index.html to your app's ID and bundle.
+  - You can also configure the value of app-clip-display to either display the metadata card or to launch the app clip directly
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
